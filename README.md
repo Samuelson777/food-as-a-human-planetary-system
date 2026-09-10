@@ -265,8 +265,6 @@ Independent Researcher
 - Email: `gsamuelsonguna@gmail.com`
 - GitHub: `https://github.com/Samuelson777`
 
-Replace the placeholders above before publishing the repository.
-
 ## Contributing
 
 Constructive scholarly feedback is welcome. To suggest a correction or improvement:
